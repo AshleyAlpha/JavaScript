@@ -31,7 +31,8 @@ console.log(Math.pow(number3, 2));
 number3 = 25;
 console.log(Math.sqrt(number3));
 
-
+let randomNumber = Math.random();
+console.log(randomNumber); // Output: Random value between 0 and 1
     
 
 
